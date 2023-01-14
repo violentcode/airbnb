@@ -1,16 +1,16 @@
 # 技术栈介绍
 
-●  开发工具：Visual Studio Code  
-●  编程语言：JavaScript  
-●  构建工具：webpack
-●  前端框架：React18
-●  CSS编写方式：styled-components
-●  路由工具：React Router
-●  状态管理：Redux/@reduxjs/toolkit
-●  UI 框架：Ant Design
-●  工具库：classNames + react-transition-group等等  
-●  CSS 预编译：Less  
-●  HTTP 工具： Axios  
+#### ● 开发工具：Visual Studio Code  
+#### ● 编程语言：JavaScript  
+#### ● 构建工具：webpack
+#### ● 前端框架：React18
+#### ● CSS编写方式：styled-components
+#### ● 路由工具：React Router
+#### ● 状态管理：Redux/@reduxjs/toolkit
+#### ● UI 框架：Ant Design
+#### ● 工具库：classNames + react-transition-group等等  
+#### ● CSS 预编译：Less  
+#### ● HTTP 工具： Axios  
 
 # Getting Started with Create React App
 
